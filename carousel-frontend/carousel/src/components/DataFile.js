@@ -1,0 +1,20 @@
+export const DataFile = [
+    {
+    image:"https://picsum.photos/id/1/367/267"
+},
+{
+    image:"https://picsum.photos/id/10/367/267"
+},
+{
+    image:"https://picsum.photos/id/1002/367/267"
+},
+{
+    image:"https://picsum.photos/id/1003/367/267"
+},
+{
+    image:"https://picsum.photos/id/1018/367/267"
+},
+{
+    image:"https://picsum.photos/id/1019/367/267"
+}
+]
